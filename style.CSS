@@ -1,0 +1,59 @@
+
+body {
+  background-image: url('ooops.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 1900px;
+  
+  
+  
+}
+.web1{
+    display: flex;
+    float: right;
+    justify-content: space-between;
+    
+
+}
+
+
+.love{
+    display: flex;
+    padding-left: 20%;
+}
+
+h3{
+    color: rgb(70, 70, 12);
+    size: 30px;
+
+}
+.p{
+    color: white;
+}
+h1{
+    margin-left: 3%;
+}
+h3{
+    margin-inline: 30%;
+}
+.kaz{
+    display: flex;
+    float: right;
+    justify-content: end;
+   
+
+}
+.moo{
+    margin: 25%;
+}
+.nav-bar{
+    margin-top: 2px;
+    margin-left: 200px;
+    color: white;
+}
+.navbar{
+    text-decoration: none;
+    font-size: 17px;
+    padding-right: 15px;
+    color: white;
+}
